@@ -1,0 +1,33 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font: 'Inter';
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #000000;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.home, .our_story, .our_product, .blog, .contact_us, .find_store{
+    color: #000000;
+
+}
+
+.search{
+    background-color: #0289084D;
+    font: 'Inter';
+    font-size: 15px;
+    font-family: 300;
+    color: #000000;
+    line-height: 30px;
+    border-radius: 5px;
+    
+}
+
+.company_logo{
+    padding-top: -40px;
+}

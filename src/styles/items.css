@@ -1,0 +1,49 @@
+.background{
+    background: fixed;
+    background-image: url('../images/background_items.png');
+
+}
+
+.lin1{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 120%;
+/* or 50px */
+
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.lin2{
+    font-family: 'Satisfy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 120%;
+    /* identical to box height, or 78px */
+    
+    text-transform: capitalize;
+    
+    color: #028908;
+    
+}
+
+.shop_now{
+    background: #16661B;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    padding-left: 2%;
+    padding-right: 2%;
+    /* identical to box height, or 30px */
+    
+    
+    color: #FFFFFF;
+}

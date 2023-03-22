@@ -1,0 +1,65 @@
+.line1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    /* identical to box height, or 28px */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #028908;
+
+}
+
+.collection{
+    text-align: center;
+}
+
+.line2{
+    font-family: 'Sacramento';
+    src: local('Sacramento'), url(../fonts/Sacramento-Regular.ttf), format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 120%;
+/* identical to box height, or 77px */
+
+    letter-spacing: 0.1em;
+    text-transform: lowercase;
+
+    color: #000000;
+}
+
+.collection1{
+    display: flex;
+    justify-content:space-around;
+}
+
+.item_name{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+    /* identical to box height, or 22px */
+    
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    
+    color: #034001; 
+}
+
+.item_cost{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+}

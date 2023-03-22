@@ -1,0 +1,76 @@
+.our{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 120%;
+    /* identical to box height, or 28px */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #028908;
+}
+
+.story{
+    font-family: 'Tangerine';
+    src: local('Tangerine'), url(../fonts/Tangerine/Tangerine-Regular.ttf), format('truetype');
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 120%;
+    /* identical to box height, or 77px */
+    
+    letter-spacing: 0.1em;
+    text-transform: lowercase;
+    
+    color: #000000;
+}
+
+.quote{
+    font-family: 'Tangerine';
+    src: local('Tangerine'), url(../fonts/Tangerine/Tangerine-Regular.ttf), format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 80%;
+    /* identical to box height, or 58px */
+    
+    
+    color: #028908;
+}
+
+.para1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 30px */
+    
+    text-align: justify;
+    
+    color: #000000;
+}
+
+.final_line{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 150%;
+    /* identical to box height, or 39px */
+    
+    
+    color: #028908;
+}
+
+.story_flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 2% 2% 2% 2%;
+}
+
+.story_text{
+    padding-right: 5%;
+}

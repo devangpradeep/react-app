@@ -1,0 +1,32 @@
+.bathing{
+    text-align: center;
+}
+
+.lineb1{
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 120%;
+    /* identical to box height, or 102px */
+    
+    letter-spacing: 0.1em;
+    text-transform: lowercase;
+    
+    color: #000000;
+    
+}
+
+.lineb2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110%;
+    /* identical to box height, or 28px */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #028908;
+}
